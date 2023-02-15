@@ -1,6 +1,6 @@
 The tripadvisor repository is part of the research 'Quality review classification for the hospitality industry'
 
-!The ganbert_without_recent_review_git in step 3 is run with help of the Google Colab progarm!
+!The ganbert_without_recent_review_git in step 3 is run with help of the Google Colab program!
 
 To run the GAN-BERT model the code has to be run in the following order:
 
